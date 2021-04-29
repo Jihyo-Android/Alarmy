@@ -3,20 +3,20 @@
     <item
         android:id="alarm"
         android:icon="@drawable/ic_baseline_access_alarm_24"
-        android:title=""/>
+        android:title="알람"/>
 
     <item
-        android:id="share"
+        android:id="record"
         android:icon="@drawable/ic_baseline_share_24"
-        android:title=""/>
+        android:title="알람기록"/>
 
     <item
         android:id="news"
         android:icon="@drawable/ic_baseline_menu_24"
-        android:title=""/>
+        android:title="뉴스"/>
 
     <item
         android:id="settings"
         android:icon="@drawable/ic_baseline_settings_24"
-        android:title=""/>
+        android:title="설정"/>
 </menu>
