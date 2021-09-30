@@ -2,4 +2,15 @@
     <string name="app_name">Alarmy</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="fourth_fragment">Fourth Fragment</string>
+
+    <!-- activity_main -->
+    <string name="next_alarm">다음 알람</string>
+
+    <!-- bottom_navigation_menu -->
+    <string name="alarm">알람</string>
+    <string name="alarm_record">알람 기록</string>
+    <string name="news">뉴스</string>
+    <string name="settings">설정</string>
 </resources>

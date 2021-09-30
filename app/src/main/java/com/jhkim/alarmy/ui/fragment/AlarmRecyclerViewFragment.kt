@@ -9,7 +9,11 @@ import com.jhkim.alarmy.R
 
 class AlarmRecyclerViewFragment: Fragment(R.layout.fragment_alarm_recyclerview) {
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
         val view = inflater.inflate(R.layout.fragment_alarm_recyclerview, container, false)
 
 

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="alarm"
+        android:id="@+id/alarm"
         android:icon="@drawable/ic_baseline_access_alarm_24"
-        android:title="알람"/>
+        android:title="@string/alarm"/>
 
     <item
-        android:id="record"
+        android:id="@+id/record"
         android:icon="@drawable/ic_baseline_share_24"
-        android:title="알람기록"/>
+        android:title="@string/alarm_record"/>
 
     <item
-        android:id="news"
+        android:id="@+id/news"
         android:icon="@drawable/ic_baseline_menu_24"
-        android:title="뉴스"/>
+        android:title="@string/news"/>
 
     <item
-        android:id="settings"
+        android:id="@+id/settings"
         android:icon="@drawable/ic_baseline_settings_24"
-        android:title="설정"/>
+        android:title="@string/settings"/>
 </menu>
