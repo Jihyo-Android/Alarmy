@@ -17,7 +17,6 @@ class AlarmRecyclerViewFragment: Fragment(R.layout.fragment_alarm_recyclerview) 
         val view = inflater.inflate(R.layout.fragment_alarm_recyclerview, container, false)
 
 
-
         return view
     }
 }
