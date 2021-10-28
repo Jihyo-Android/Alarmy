@@ -7,6 +7,7 @@
 
     <!-- activity_main -->
     <string name="next_alarm">다음 알람</string>
+    <string name="no_alarm">예정된 알람 없음</string>
 
     <!-- bottom_navigation_menu -->
     <string name="alarm">알람</string>
